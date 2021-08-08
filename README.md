@@ -13,4 +13,5 @@ WITH NO MASK 2
 WITH MASK 1
 ![with_mask1](https://user-images.githubusercontent.com/57234839/128627640-bddf4be7-3acd-47b5-bdd7-619d87da4698.PNG)
 WITH MASK 2!
-[Uploading with_mask2.PNG…]()
+![with_mask2](https://user-images.githubusercontent.com/57234839/128627716-96eab7ff-aed6-4b60-9ac2-ce4ccdd3ffaf.PNG)
+
